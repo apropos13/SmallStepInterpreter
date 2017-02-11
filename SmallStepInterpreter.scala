@@ -9,8 +9,7 @@ on the command line
 
 Assignment #4
 Program: SmallStepInterpreter.scala (for the while language)
-Authors: Panos Karagiannis (ID: 1309484) and Kostas Zambetakis (ID:1567380)
-On this homework, we worked together entirely and no individual work was done.
+Authors: Panos Karagiannis (ID: 1309484)
 
 */
 
